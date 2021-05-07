@@ -5,13 +5,13 @@
   "keywords": [
     "Telegram",
     "Bot",
-    "inkepo",
+    "Fsub",
     "Group",
     "Channel"
   ],
-  "repository": "https://github.com/inkepo/telegram-nobacot",
-  "website": "inkepo.my.id",
-  "success_url": "t.me/JanganBacotRobot",
+  "repository": "https://github.com/DamienSoukara/FSub-Heroku",
+  "website": "AmineSoukara.me",
+  "success_url": "t.me/ForceSubscribeRobot",
   "env": {
     "APP_ID": {
       "description": "Get this value from my.telegram.org! Please do not steal",
